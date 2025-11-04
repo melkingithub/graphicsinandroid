@@ -48,7 +48,7 @@ Registeration Number : 212223220056
 
 ## In MainActivity.java
 ```java
-package com.example.graphical;
+package com.example.graphics;
 import androidx.appcompat.app.AppCompatActivity;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
